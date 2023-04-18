@@ -1,0 +1,27 @@
+.navbar ul{
+    list-style-type: none;
+}
+
+.content ul{
+    list-style-type: none;
+    text-align: left;
+    margin-left: -3rem;
+}
+
+.content li{
+    display: inline-block;
+    border-right: 2px solid black;
+    padding-inline: 10px;
+}
+
+.content h5{
+    text-align: center;
+}
+
+.navbar{
+    background-color:rgb(180, 81, 255);
+}
+
+.navbar li{
+    color: white;
+}
